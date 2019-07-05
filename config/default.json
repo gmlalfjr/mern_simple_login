@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://amay:amay@clusterdb-4ynlz.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret" :"Todoss_List"
+}
